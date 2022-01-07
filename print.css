@@ -1,0 +1,15 @@
+
+@page{margin: .5cm;}
+body{
+	color: #000;
+	font-family: geogia, "Time New Roman", Times, serif; font-size: 12pt;
+	font-weight: normal; margin: 0;padding: 0;
+}
+h1,h2,h3,h4{ margin: 0;  font-family: sans-serif;}
+h1{font-size: 1.4em;}
+h2{font-size: 1.3em;}
+h3{font-size: 1.2em;}
+h4{font-size: 1.1em;}
+
+p{ margin: 0 0 1em 0; font-size: .9em; }
+a, a:visited{ color: inherit; text-decoration: none; }
