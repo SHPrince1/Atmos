@@ -2,10 +2,10 @@
 @page{margin: .5cm;}
 body{
 	color: #000;
-	font-family: geogia, "Time New Roman", Times, serif; font-size: 12pt;
+	font-family:  "Segoe UI" ; font-size: 12pt;
 	font-weight: normal; margin: 0;padding: 0;
 }
-h1,h2,h3,h4{ margin: 0;  font-family: sans-serif;}
+h1,h2,h3,h4{ margin: 0;  font-family: Segoe UI;}
 h1{font-size: 1.4em;}
 h2{font-size: 1.3em;}
 h3{font-size: 1.2em;}
